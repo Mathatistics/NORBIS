@@ -10,7 +10,7 @@
           % You have to get the height empirically
           % ---------------------------------------------------------%
           % fill each column with content
-            \begin{block}{L-PLS and its varients (Exo-LPLS and Endo-LPLS)} % Visulazation block
+            \begin{block}{L-PLS and its variants (Exo-LPLS and Endo-LPLS)} % Visulazation block
             	\begin{columns}[b]
             		\begin{column}{0.35\textwidth}
             			\begin{figure}
@@ -23,8 +23,8 @@
             		\begin{column}{0.63\textwidth}
             			\begin{itemize}
             				\item Partial Least Square can also be used in understanding the covariance structure and the relation between different matrices. 
-            				\item Information can give better insight in solving any problem. A background information on variation under study helps to model the complex dynamics of the real world phenomena.
-            				\item L-shaped PLS (LPLS) helps in exploring covariance structure of matrices
+            				\item More information can give better insight in solving any problem. So, a background information on variation under study helps to model the complex dynamics of the real world phenomena.
+            				\item L-shaped PLS (LPLS) helps in exploring covariance structure of three matrices.
             				\item LPLS with its variant Endo and Exo LPLS, enables to see the relationship between two matrices with no direct connection.
             			\end{itemize}
             		\end{column}
@@ -94,20 +94,20 @@
 	            		\end{figure}
              		\column{0.6\textwidth}
 			            \begin{description}
-			            \item[Scenerio]\hfill\\
+			            \item[\textbf{Scenario}]\hfill\\
 			            \begin{itemize}
-			            	\item Large amount of caotic yet informative data streams, on organized, can give light on any research process
-			            	\item Integraion of such easily availiable datasource can supply background information to the variables under study and helps not only to understand the causal relation and covariance structure but also to visualize in understandable form and generate new hypothesis
+			            	\item Large amount of chaotic yet informative data streams, if organized, can give light on any research process
+			            	\item Integration of such easily available data source can supply background information to the variables under study and helps, not only to understand the causal relationship and covariance structure, but also to visualize them in understandable form and generate new hypothesis
 			            \end{itemize}
 				        \end{description}
 				\end{columns}  
 				\vspace{1cm}      
 				\begin{description}
-					\item[What is UPLS]\hfill\\
+					\item[\textbf{What is UPLS}]\hfill\\
 					UPLS is an extension of LPLS that enable us to,
 					\begin{itemize}
 						\item include background information for predictor matrix \textbf{X} and response matrix \textbf{Y}
-						\item Foresee the relationship between two matrices form entirly different situation, i.e. the relation between \textbf{W} and \textbf{Z} through the eye of \textbf{X} and \textbf{Y} (Figure alongside)
+						\item Foresee the relationship between two matrices that are from entirely different situations, i.e. the relation between \textbf{W} and \textbf{Z} through the eye of \textbf{X} and \textbf{Y} (Figure above)
 					\end{itemize}
 				\end{description}
             \end{block}
